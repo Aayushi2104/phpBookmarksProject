@@ -44,7 +44,7 @@
 
     <!-- Main Content Section -->
     <div class="container">
-        <h2>What's New</h2>
+        <h2>What's Trending</h2>
         <p>We’ve added new features and improvements to our system:</p>
         <ul>
             <li><strong>New folder creation:</strong> Users can now create folders and share them with others.</li>
